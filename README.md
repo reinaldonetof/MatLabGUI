@@ -1,3 +1,3 @@
-#SPlay em MatLab
-Software desenvolvido em MatLab capaz de reproduzir vídeos e gerar legendas!
-É necessário estar com o Windows Media Player no computador.
+# SPlay in MatLab
+- Software developed in MatLab capable of playing videos and generating subtitles
+> You must be running Windows Media Player on your computer.
